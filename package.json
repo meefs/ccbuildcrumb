@@ -1,0 +1,26 @@
+{
+  "name": "ccbuildcrumb",
+  "version": "1.0.0",
+  "description": "Useful scaffolding for Claude Code and agents in markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meefs/ccbuildcrumb.git"
+  },
+  "keywords": [
+    "claude",
+    "code",
+    "scaffolding",
+    "agents",
+    "markdown"
+  ],
+  "author": "meefs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meefs/ccbuildcrumb/issues"
+  },
+  "homepage": "https://github.com/meefs/ccbuildcrumb#readme"
+}
